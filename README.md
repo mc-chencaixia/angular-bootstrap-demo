@@ -1,6 +1,6 @@
 # angular-bootstrap-demo
 demo  based angular &amp; angular
 
-# °²×°²½Öè
+# å®‰è£…æ­¥éª¤
 1. npm install
 2. grunt serve
